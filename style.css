@@ -1,0 +1,46 @@
+html, body {
+  margin: 0;
+  padding: 0;
+    background:rgb(255, 226, 231);
+}
+
+
+canvas {
+  display: block;
+    
+    }  
+    
+    
+    
+    nav{
+        padding:1rem
+    }
+}
+
+a{
+    
+  font-family: 'Smokum', cursive;
+    text-decoration:none;
+}
+a#BroFist{
+ 
+  
+  background:saddlebrown;
+    color:pink;
+    position: fixed;
+    top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    box-shadow: 1px 1px 15px rgb(248, 248, 91);
+    padding:1rem 2rem;
+    border-radius: 10px;
+}
+
+
+a#BroFist:hover{
+    background:yellow;
+    color:saddlebrown;
+    transition:all ease 1s;
+    top:50.5%;
+  box_shadow: 1px 1px 10px black;  
+}
