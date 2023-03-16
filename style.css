@@ -15,18 +15,20 @@ canvas {
     nav{
         padding:1rem
     }
-}
+
 
 a{
-    
-  font-family: 'Smokum', cursive;
-    text-decoration:none;
+    text-decoration: none;
+    font-family: 'Smokum', cursive;
+    color: saddlebrown;
 }
+
+
 a#BroFist{
  
-  
+  font-family:'Smokum', cursive;
   background:saddlebrown;
-    color:pink;
+    color:rgb(255, 209, 217);
     position: fixed;
     top: 50%;
   left: 50%;
@@ -38,9 +40,9 @@ a#BroFist{
 
 
 a#BroFist:hover{
-    background:yellow;
+    background:rgb(255, 202, 211);
     color:saddlebrown;
     transition:all ease 1s;
     top:50.5%;
-  box_shadow: 1px 1px 10px black;  
+  box-shadow: 1px 1px 10px black;  
 }
