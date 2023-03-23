@@ -44,5 +44,5 @@ a#BroFist:hover{
     color:saddlebrown;
     transition:all ease 1s;
     top:50.5%;
-  box-shadow: 1px 1px 10px black;  
+  box-shadow: 1px 1px 10px saddlebrown;  
 }
